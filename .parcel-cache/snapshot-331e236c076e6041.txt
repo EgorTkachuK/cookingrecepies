@@ -1,4 +1,4 @@
-7548
+7558
 144C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\process.js133997659475018946 0
 71C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\package.json133997734615244184 0
 105C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\fast-glob\out\readers\stream.d.ts133992877706131829 0
@@ -14,7 +14,7 @@
 80C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@sinonjs133997729835445241 1
 117C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\pretty-format\build\plugins\ReactElement.d.ts133992877693010851 0
 103C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\fast-glob\out\providers\filters133992877701681495 1
-89C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@msgpackr-extract133997729778051030 1
+89C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@msgpackr-extract133997742318254911 1
 120C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lightningcss\node_modules\detect-libc\index.d.ts133997659476849065 0
 96C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\queue-microtask\index.js133992877582815216 0
 103C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\regions\BM.js133992877713372372 0
@@ -52,7 +52,7 @@
 80C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\escalade133992877669929136 1
 92C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\fp\unionBy.js133992877769166542 0
 94C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\_baseInRange.js133992877707851971 0
-63C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist133997735575192402 1
+63C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist133997745638160994 1
 96C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\ansi-styles\package.json133992877640673898 0
 81C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\is-number133992877644477229 1
 103C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\regions\VU.js133992877765196235 0
@@ -76,21 +76,21 @@
 114C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\make-dir\node_modules\semver\bin\semver.js133992877643467145 0
 119C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\css3-cursors-grab.js133992877739154295 0
 102C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@testing-library\react\LICENSE133992877959172475 0
-71C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules133997729846706047 1
+71C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules133997742318234913 1
 126C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lmdb\node_modules\node-addon-api\napi-inl.deprecated.h133997659476169024 0
 103C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\regions\TM.js133992877763736163 0
 115C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\css-gradients.js133992877731243725 0
 82C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@rushstack133997729846366034 1
 90C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\plugin\src133997659475608976 1
 123C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\cjs\_class_apply_descriptor_update.cjs133997659480599355 0
-76C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\public\index.html133997735574792354 0
+76C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\public\index.html133997745624688308 0
 97C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\core\lib\index.js133997659485799720 0
 126C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\strip-outer\node_modules\escape-string-regexp\index.js133997659472668765 0
 77C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\public\favicon.ico133992877661408484 0
 124C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\styled-components\native\dist\sheet\Rehydration.d.ts133992898955570443 0
 79C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\globals133992877660668435 1
 93C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\reusify\tsconfig.json133992877667308927 0
-76C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\package-lock.json133997729849016217 0
+76C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\package-lock.json133997742319925045 0
 97C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\_createInverter.js133992877729073574 0
 116C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\aria-query\lib\etc\roles\literal\noteRole.js133992877722553049 0
 88C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\negate.js133992877761926002 0
@@ -235,7 +235,7 @@
 85C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\react\LICENSE133992877562066988 0
 115C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@babel\runtime\helpers\esm\applyDecs2305.js133992877710722178 0
 88C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@testing-library133992877955253242 1
-90C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.package-lock.json133997729850586362 0
+90C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.package-lock.json133997742321095118 0
 91C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\fp\invoke.js133992877757175672 0
 95C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@nodelib\fs.scandir\out133992877689130550 1
 94C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\differenceBy.js133992877749255036 0
@@ -291,7 +291,7 @@
 91C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\fp\assign.js133992877742424553 0
 137C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\core\test\fixtures\library-custom-scopehoist\package.json133997659490370054 0
 78C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@pkgjs133997729814253681 1
-82C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\public.0ba7c674.js133997735282760851 0
+82C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\public.0ba7c674.js133997744172395731 0
 125C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\comparedocumentposition.js133992877723133117 0
 161C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\babel-loader\f3c11524fdf02a58363584c85b6e0d75583cc2c49cf436fbdd00f83b01268dde.json133997562753759294 0
 118C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\esm\_class_private_method_init.js133997659487059823 0
@@ -336,10 +336,10 @@
 86C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@humanwhocodes133997729814173677 1
 111C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\styled-components\dist\utils\hoist.d.ts133992898954360347 0
 97C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\styled-components\LICENSE133992898951040120 0
-79C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel133997729778041034 1
+79C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel133997742318254911 1
 152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd133997659495630448 0
 116C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\iframe-sandbox.js133992877749635093 0
-152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\e6133997716675239661 1
+152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\e6133997736269595877 1
 131C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@testing-library\jest-dom\types\__tests__\bun\tsconfig.json133992877961740092 0
 122C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\web-vitals\src\lib\polyfills\firstInputPolyfill.ts133992877965383740 0
 85C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\tap.js133992877767836434 0
@@ -378,7 +378,7 @@
 86C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@leichtgewicht133997729814223683 1
 89C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\fp\math.js133992877760875919 0
 93C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\flatMapDeep.js133992877753875393 0
-77C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@lmdb133997729778051030 1
+77C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@lmdb133997742318264923 1
 128C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\styled-components\node_modules\tslib\CopyrightNotice.txt133992898951800159 0
 103C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\regions\PT.js133992877759745823 0
 82C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\async\dist133992877726583350 1
@@ -405,7 +405,7 @@
 178C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\react-refresh\cjs\react-refresh-runtime.development.js133997659476279031 0
 77C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@svgr133997729814443693 1
 117C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\css-caret-color.js133992877727043384 0
-76C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc133997729778031026 1
+76C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc133997742318244909 1
 84C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@tootallnate133997729814313694 1
 86C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\once.js133992877762816068 0
 111C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\_\_interop_require_default133997659491440128 1
@@ -424,6 +424,7 @@
 148C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test.cmd133997659495640458 0
 91C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\kebabCase.js133992877759625825 0
 90C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@typescript-eslint133997729846376047 1
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\e6\5a6a1798999eac9359daa08610358932a1cf48133997736269572634 0
 83C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\graceful-fs133992877661318484 1
 98C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\nullthrows\nullthrows.d.ts133997659473168800 0
 78C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@ungap133997729835575252 1
@@ -432,7 +433,6 @@
 119C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\styled-components\dist\utils\isStaticRules.d.ts133992898954970406 0
 107C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\web-vitals\dist\modules\getLCP.d.ts133992877966563816 0
 86C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\p-try\index.js133992877640053865 0
-155C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\public.31b563d9.js133997730965968712 0
 124C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\scrollintoviewifneeded.js133992877760995916 0
 123C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\styled-components\node_modules\tslib\tslib.es6.html133992898951030127 0
 86C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@webassemblyjs133997729841935765 1
@@ -481,6 +481,7 @@
 77C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\async133992877726483341 1
 93C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\ordered-binary\assets133997659478749222 1
 78C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\base-x133997659474488907 1
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\8b\357b53df3fff6ab876d94619ef7848240f0dc0133997736281140508 0
 111C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\_\_class_private_field_set133997659490500080 1
 136C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\styled-components\node_modules\postcss\lib\terminal-highlight.js133992898952110186 0
 103C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\regions\SR.js133992877762005991 0
@@ -794,7 +795,7 @@
 77C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\p-try133992877651207722 1
 118C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\styled-components\dist\models\GlobalStyle.d.ts133992898954180343 0
 78C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\parcel133997659477669125 1
-151C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\logs\HEAD133997730970544389 0
+151C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\logs\HEAD133997736289251906 0
 90C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\overArgs.js133992877763036090 0
 105C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\styled-components\dist\index.d.ts133992898954560377 0
 107C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\audio.js133992877703251626 0
@@ -833,6 +834,7 @@
 92C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\json5\lib\unicode.js133992877673849412 0
 124C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\runtime-js\src\helpers\browser\css-loader.js133997659478079169 0
 102C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\pretty-format\build\types.d.ts133992877694360962 0
+152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\f8133997736281120485 1
 120C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\core-win32-x64-msvc\swc.win32-x64-msvc.node133997659491200115 0
 91C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\fp\concat.js133992877746224831 0
 85C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\pretty-format133992877681399985 1
@@ -1034,6 +1036,7 @@
 118C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\font-size-adjust.js133992877745644778 0
 161C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@testing-library\jest-dom\node_modules\dom-accessibility-api\dist\polyfills\iterator.d.js133992877961211703 0
 97C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\type-fest\ts41\index.d.ts133992877684360200 0
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\ed\91de417ce3b543c9871d21112caba57ba53314133997736281077314 0
 103C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\regions\PG.js133992877759005779 0
 114C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\web-vitals\src\lib\getVisibilityWatcher.ts133992877966933846 0
 118C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\aria-query\lib\etc\roles\dpub\docNoticeRole.js133992877707551935 0
@@ -1383,7 +1386,7 @@
 90C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\_hashSet.js133992877734023906 0
 110C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\type-fest\source\conditional-pick.d.ts133992877674959500 0
 135C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\prop-types\node_modules\react-is\umd\react-is.production.min.js133992877668799074 0
-191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\91\8cb7c2e128a7034471378a16c49fb8aa68d012133997730966860544 0
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\91\8cb7c2e128a7034471378a16c49fb8aa68d012133997736281151734 0
 126C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\aria-query\lib\etc\roles\literal\graphicsSymbolRole.js133992877715502543 0
 92C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\_baseClamp.js133992877695931064 0
 92C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lz-string\bin\bin.js133992877960472567 0
@@ -1579,7 +1582,7 @@
 131C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\styled-components\native\dist\models\StyleSheetManager.d.ts133992898956040470 0
 112C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\word-break.js133992877766626355 0
 95C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\_nativeKeysIn.js133992877737874190 0
-152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\d2133997730958577645 1
+152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\d2133997736269626205 1
 96C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@lezer\lr\dist\index.cjs133997659473368824 0
 87C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\fp\lt.js133992877760395880 0
 114C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\packager-js\lib\ESMOutputFormat.js133997659477729134 0
@@ -1694,13 +1697,12 @@
 110C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\types-internal\lib\unsafe.d.ts133997659482199470 0
 127C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\styled-components\node_modules\postcss\lib\postcss.d.ts133992898952550205 0
 97C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\_initCloneByTag.js133992877734513941 0
-171C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\logs\refs\remotes\origin\main133997730960477804 0
+171C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\logs\refs\remotes\origin\main133997736282211797 0
 127C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\styled-components\node_modules\postcss\lib\processor.js133992898951980171 0
 91C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\trimStart.js133992877768966518 0
 105C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@testing-library\jest-dom\LICENSE133992877959182471 0
 99C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\fast-glob\out\utils\path.js133992877685980331 0
 126C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\styled-components\node_modules\postcss\lib\result.d.ts133992898952600221 0
-82C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\public.a2db2617.js133997730931294198 0
 106C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\watcher\src\wasm\include.h133997659481489410 0
 87C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\clone.js133992877745084731 0
 131C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\styled-components\node_modules\postcss\lib\stringifier.d.ts133992898952660232 0
@@ -1897,7 +1899,6 @@
 137C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\styled-components\native\dist\dist\utils\generateComponentId.d.ts133992898954010373 0
 93C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\fp\conforms.js133992877746484838 0
 98C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\scheduler\unstable_mock.js133992877677639696 0
-86C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\public.a2db2617.js.map133997730931734228 0
 120C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\css3-cursors-newer.js133992877739204307 0
 137C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\styled-components\native\dist\dist\utils\generateDisplayName.d.ts133992898954050323 0
 98C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\_setWrapToString.js133992877739454305 0
@@ -2128,7 +2129,7 @@
 125C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\src\_class_private_field_destructure.mjs133997659493160268 0
 118C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\styled-components\dist\models\InlineStyle.d.ts133992898954750374 0
 87C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\unzip.js133992877769566572 0
-175C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\logs\refs\remotes\origin\gh-pages133997731009830583 0
+175C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\logs\refs\remotes\origin\gh-pages133997736312548100 0
 116C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\styled-components\dist\models\Keyframes.d.ts133992898955160418 0
 89C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\isArray.js133992877757435675 0
 122C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\styled-components\dist\models\StyledComponent.d.ts133992898955920477 0
@@ -2148,6 +2149,7 @@
 118C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\beforeafterprint.js133992877710582164 0
 89C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\cache\src133997659478829246 1
 90C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\reusify\benchmarks133992877652547825 1
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\35\f5770392501a20cf3fce55fb34967f4ae3065b133997736287129202 0
 134C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@testing-library\user-event\dist\keyboard\plugins\character.js133992877961002604 0
 127C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@testing-library\user-event\dist\utils\edit\getValue.js133992877963826863 0
 133C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\styled-components\dist\constructors\constructWithOptions.d.ts133992898953100264 0
@@ -2170,7 +2172,7 @@
 130C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\strip-outer\node_modules\escape-string-regexp\package.json133997659471858706 0
 161C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\babel-loader\6a853b01bda3bfba669f7cfe073d121bd17abb00d33b4a36918a0caadf18abe8.json133992879556561768 0
 95C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\_getAllKeysIn.js133992877731993760 0
-166C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\refs\remotes\origin\main133997730960457774 0
+166C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\refs\remotes\origin\main133997736282191794 0
 89C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\fp\date.js133992877747864944 0
 121C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\css-filter-function.js133992877730093622 0
 112C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\webworkers.js133992877766436326 0
@@ -2297,7 +2299,6 @@
 161C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\babel-loader\ff24f3a388c74e8a8503c7c5da4518b5509a06d2f8fece382a76843f6ab0090d.json133992879554171589 0
 92C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\toIterator.js133992877768246476 0
 85C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\async\LICENSE133992877537294984 0
-155C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\public.a2db2617.js133997730965878713 0
 100C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\semver\classes\comparator.js133992877660788442 0
 90C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\async\CHANGELOG.md133992877726403344 0
 102C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\types-internal\LICENSE133997659471608693 0
@@ -2382,7 +2383,7 @@
 125C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc133997659478669207 0
 111C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\react-is\umd\react-is.production.min.js133992877661128486 0
 103C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\regions\MT.js133992877757185652 0
-141C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git133997730970574393 1
+141C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git133997736289271912 1
 108C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\react-is\cjs\react-is.development.js133992877642607081 0
 103C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\regions\LI.js133992877754745447 0
 96C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\dropRightWhile.js133992877750275129 0
@@ -2430,7 +2431,6 @@
 125C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\react-dom\cjs\react-dom-server.browser.development.js133992877714662459 0
 105C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\fs\test\OverlayFS.test.js133997659478899225 0
 113C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\css-lch-lab.js133992877732673817 0
-156C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\public.37b1d755.css133997730965738685 0
 93C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\_baseReduce.js133992877719622838 0
 123C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\font-family-system-ui.js133992877745364755 0
 124C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\react-dom\cjs\react-dom-server.browser.production.js133992877715612556 0
@@ -2503,7 +2503,6 @@
 91C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\startCase.js133992877766866358 0
 90C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\parseInt.js133992877763486126 0
 91C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\prop-types\index.js133992877663718671 0
-159C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\public.0ba7c674.js.map133997730965728681 0
 132C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\cjs\_class_static_private_field_destructure.cjs133997659482889511 0
 86C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\prop-types\lib133992877673629406 1
 161C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\babel-loader\a145697d97742147e455ea0e4e6e7445da2519e9a4367c2f2964049bb627fe5a.json133992879546989677 0
@@ -2880,6 +2879,7 @@
 92C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\msgpackr-extract\src133997659472328741 1
 85C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\clone\LICENSE133997659474318891 0
 112C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\dom-accessibility-api\dist\index.mjs.map133992877964579259 0
+152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\a5133997736269262606 1
 92C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@nodelib\fs.stat\out133992877680819938 1
 87C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\isMap.js133992877758325715 0
 89C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\groupBy.js133992877755915555 0
@@ -3259,7 +3259,7 @@
 86C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\math.js133992877760905924 0
 119C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\core\lib\requests\BundleGraphRequest.js133997659484319616 0
 88C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\async\groupBy.js133992877712752341 0
-147C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\index.html133997730965718673 0
+147C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\index.html133997736286668258 0
 122C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\aria-query\lib\etc\roles\dpub\docConclusionRole.js133992877701841497 0
 86C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\mean.js133992877761105924 0
 88C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\meanBy.js133992877761165948 0
@@ -3322,7 +3322,6 @@
 92C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\rangeRight.js133992877764916220 0
 94C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\_composeArgs.js133992877726683358 0
 88C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\reduce.js133992877765136232 0
-159C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\public.31b563d9.js.map133997730965998710 0
 99C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\utils\src\stream.js133997659485609708 0
 89C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\release.md133992877770906662 0
 88C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\remove.js133992877765296246 0
@@ -3407,7 +3406,7 @@
 88C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\toJSON.js133992877768326472 0
 108C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\package-manager\src\index.js133997659476719059 0
 103C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\regions\JO.js133992877752875316 0
-147C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\index133997730970358514 0
+147C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\index133997736289103746 0
 96C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\fs\src\NodeFS.js133997659478399205 0
 125C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\runtime-js\src\helpers\browser\html-loader.js133997659479909300 0
 92C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\_arrayPush.js133992877677119671 0
@@ -3672,6 +3671,7 @@
 103C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\regions\CG.js133992877720112869 0
 103C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\regions\MQ.js133992877757055637 0
 97C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\_escapeHtmlChar.js133992877731313711 0
+152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\ea133997736281571745 1
 93C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\_getAllKeys.js133992877731893765 0
 90C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\_getData.js133992877732073772 0
 113C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\src\_non_iterable_spread.mjs133997659493880324 0
@@ -3685,7 +3685,7 @@
 90C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\_getView.js133992877733343870 0
 87C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\_Hash.js133992877733543873 0
 90C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\_hashGet.js133992877733823905 0
-170C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\refs\remotes\origin\gh-pages133997731009810587 0
+170C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\refs\remotes\origin\gh-pages133997736312528084 0
 90C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\_hashHas.js133992877733943903 0
 89C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\async\allLimit.js133992877633142301 0
 107C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\config-default\package.json133997659475759005 0
@@ -3797,6 +3797,7 @@
 89C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\fp\each.js133992877750585140 0
 94C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\fp\eachRight.js133992877750685154 0
 94C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\fast-glob\out\index.js133992877679499841 0
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\91\7ce66fb772c4d18a9fa1e9f8dda5764ad18969133997736269162619 0
 93C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\fp\endsWith.js133992877750795173 0
 92C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\fp\entries.js133992877750895182 0
 94C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\fp\entriesIn.js133992877751005191 0
@@ -4045,6 +4046,7 @@
 92C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\packager-css133997659474958927 1
 95C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\fp\sampleSize.js133992877765706282 0
 88C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\fp\set.js133992877765836283 0
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\9b\d4414df93e408e8506a7fdd66218597d5c1655133997736280558072 0
 104C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\fast-glob\out\providers\async.js133992877648017496 0
 92C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\fp\setWith.js133992877765896284 0
 89C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\fp\size.js133992877765986300 0
@@ -4090,7 +4092,7 @@
 121C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\aria-query\lib\etc\roles\dpub\docBibliorefRole.js133992877700481401 0
 104C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\fp\symmetricDifference.js133992877767326405 0
 161C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\babel-loader\1df765eec4d37b298aa77276318efa446a63d690e4d9885949e7a87be0b9398d.json133992879557881867 0
-148C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\config133997730968469275 0
+148C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\config133997736288048719 0
 108C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\fp\symmetricDifferenceWith.js133992877767366386 0
 86C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lodash\fp\T.js133992877767386399 0
 91C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\is-extglob\index.js133992877646327367 0
@@ -4308,7 +4310,7 @@
 106C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lmdb\dependencies\lz4\lib\xxhash.h133997659487289842 0
 112C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lmdb\dependencies\lz4\lib\dll\liblz4.def133997659486609783 0
 103C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\regions\BF.js133992877711082196 0
-86C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\public.31b563d9.js.map133997734626356763 0
+86C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\public.31b563d9.js.map133997745636340902 0
 118C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lmdb\dependencies\lz4\lib\dll\example\Makefile133997659480619368 0
 119C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md133997659488249914 0
 128C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\CHANGES133997659472528759 0
@@ -4603,6 +4605,7 @@
 102C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\async\internal\withoutIndex.js133992877725613276 0
 100C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\fast-glob\out\utils\array.js133992877622632287 0
 100C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\fast-glob\out\utils\errno.js133992877674149443 0
+152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\35133997736287143792 1
 99C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\fast-glob\out\utils\fs.d.ts133992877702131524 0
 102C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\fast-glob\out\utils\index.d.ts133992877703291608 0
 123C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\dom-accessibility-api\dist\is-inaccessible.d.ts.map133992877964619262 0
@@ -4748,7 +4751,6 @@
 102C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\detect-libc\lib\detect-libc.js133997659476519067 0
 124C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\css-anchor-positioning.js133992877725533273 0
 102C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\detect-libc\bin\detect-libc.js133997659475939001 0
-159C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\web-vitals.54b40519.js133997730965748679 0
 89C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\dequal\index.d.ts133992877961231707 0
 173C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\hooks\prepare-commit-msg.sample133997660058905045 0
 86C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\dequal\license133992877959102460 0
@@ -4768,6 +4770,7 @@
 98C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\css.escape\LICENSE-MIT.txt133992877959812506 0
 95C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\css.escape\package.json133992877959162476 0
 92C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\css.escape\README.md133992877959422474 0
+152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\53133997736289093749 1
 100C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\css-to-react-native\index.js133992898952050177 0
 88C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\chalk\index.d.ts133992877663858665 0
 111C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\packager-raw\lib\RawPackager.js133997659472758773 0
@@ -4874,7 +4877,7 @@
 87C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages133997660058765031 1
 109C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@nodelib\fs.stat\out\adapters\fs.d.ts133992877677149666 0
 103C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\regions\AL.js133992877682490073 0
-191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\86\940e4f55f8ba3b8443f2f9f92d33bc8e189577133997730967643056 0
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\86\940e4f55f8ba3b8443f2f9f92d33bc8e189577133997736281461743 0
 107C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\regions\alt-af.js133992877683540145 0
 93C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\async\selectSeries.js133992877722683055 0
 141C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\react-refresh\cjs133997659476619044 1
@@ -5125,9 +5128,10 @@
 122C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\css-display-contents.js133992877729393564 0
 128C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@babel\runtime\helpers\esm\taggedTemplateLiteralLoose.js133992877729023531 0
 118C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\css-font-stretch.js133992877731003690 0
+152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\8b133997736281151734 1
 111C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\es6-class.js133992877743134586 0
 120C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\css-grid-animation.js133992877731383704 0
-136C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git133997730965698697 1
+136C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git133997736286648254 1
 102C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\workers\lib\backend.js133997659472728766 0
 104C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\esm\_ts_decorate.js133997659488839960 0
 125C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\css-hanging-punctuation.js133992877731693729 0
@@ -5168,6 +5172,7 @@
 123C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\css-text-wrap-balance.js133992877738064209 0
 105C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\let.js133992877754685464 0
 117C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\css-transitions.js133992877738304229 0
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\5a\e94807b903c68eded905b99be091a2d66d9820133997736281471738 0
 118C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\css-unicode-bidi.js133992877738354243 0
 115C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\css-variables.js133992877738504240 0
 98C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\feature-flags\test133997659472588762 1
@@ -5259,6 +5264,7 @@
 124C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\keyboardevent-charcode.js133992877753685374 0
 120C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\keyboardevent-code.js133992877753745380 0
 119C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\keyboardevent-key.js133992877753845412 0
+152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\63133997736269552625 1
 90C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\async\allSeries.js133992877645557301 0
 124C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\link-rel-modulepreload.js133992877754905475 0
 122C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\esm\_tagged_template_literal_loose.js133997659488649966 0
@@ -5304,6 +5310,7 @@
 115C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\_\_overload_yield\package.json133997659491880203 0
 110C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\progress.js133992877759585824 0
 110C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\promises.js133992877759625825 0
+152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\fc133997736281541744 1
 107C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\proxy.js133992877759685846 0
 107C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\types-internal\package.json133997659479489261 0
 115C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\caniuse-lite\data\features\queryselector.js133992877759925867 0
@@ -5579,7 +5586,7 @@
 102C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\utils\src\sourcemap.js133997659485499703 0
 120C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\aria-query\lib\etc\roles\dpub\docEndnotesRole.js133992877703991657 0
 120C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\aria-query\lib\etc\roles\dpub\docEpigraphRole.js133992877704301703 0
-74C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\index.html133997735575172399 0
+74C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\index.html133997745636080837 0
 118C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\aria-query\lib\etc\roles\dpub\docErrataRole.js133992877704901739 0
 120C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\aria-query\lib\etc\roles\dpub\docFootnoteRole.js133992877705511797 0
 112C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\esm\_array_like_to_array.js133997659486309764 0
@@ -5933,6 +5940,7 @@
 123C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@emotion\unitless\dist\emotion-unitless.cjs.prod.js133992898951420133 0
 162C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@testing-library\dom\node_modules\aria-query\lib\etc\roles\literal\menuitemcheckboxRole.js133992877969894059 0
 159C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@testing-library\dom\node_modules\aria-query\lib\etc\roles\literal\menuitemradioRole.js133992877969914058 0
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\53\3ca09ee3288fc80657468026b172244b0bb22b133997736289079183 0
 154C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@testing-library\dom\node_modules\aria-query\lib\etc\roles\literal\menuitemRole.js133992877969924060 0
 150C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@testing-library\dom\node_modules\aria-query\lib\etc\roles\literal\menuRole.js133992877969944075 0
 107C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\runtime-rsc\rsc-helpers.jsx133997659476269026 0
@@ -6121,7 +6129,7 @@
 107C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\_\_update\package.json133997659492550221 0
 108C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\watcher\src\watchman\BSER.hh133997659482079488 0
 130C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\_\_unsupported_iterable_to_array\package.json133997659492520209 0
-149C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects133997730971018302 1
+149C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects133997736289656095 1
 108C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\_\_type_of\package.json133997659492490207 0
 113C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\_\_ts_generator\package.json133997659492400204 0
 121C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\_\_ts_dispose_resources\package.json133997659492360204 0
@@ -6159,6 +6167,7 @@
 110C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\_\_construct\package.json133997659490900109 0
 114C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\transformer-image\src\loadSharp.js133997659475939001 0
 139C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\_\_class_static_private_field_destructure\package.json133997659490720076 0
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\08\e0863032e9705dcd9071d531c4f94f4a503d95133997736289203753 0
 125C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\_\_class_private_method_set\package.json133997659490690077 0
 126C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\_\_class_private_method_init\package.json133997659490660070 0
 127C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\_\_class_private_field_update\package.json133997659490600076 0
@@ -6175,7 +6184,7 @@
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\d3\d1445e86cc1f487dbd4c3a9bda03840f0c3e09133997698941580330 0
 117C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\_\_class_call_check\package.json133997659490010027 0
 127C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\_\_class_apply_descriptor_get\package.json133997659489880035 0
-151C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\ORIG_HEAD133997678168956772 0
+151C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\ORIG_HEAD133997736285905472 0
 100C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\workers\package.json133997659484449630 0
 128C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@swc\helpers\_\_check_private_redeclaration\package.json133997659489810029 0
 152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\6b133997730970504400 1
@@ -6519,7 +6528,6 @@
 98C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\watcher\src\kqueue133997659482949521 1
 97C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\watcher\src\linux133997659482719499 1
 101C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\watcher\src\Signal.hh133997659483139530 0
-86C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\web-vitals.54b40519.js133997730931274191 0
 96C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\watcher\src\wasm133997659483169539 1
 102C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\watcher\src\Watcher.cc133997659480159322 0
 102C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\watcher\src\Watcher.hh133997659483349549 0
@@ -6527,7 +6535,6 @@
 100C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\watcher\src\watchman133997659483429581 1
 99C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\watcher\src\windows133997659483749600 1
 117C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\watcher\src\windows\WindowsBackend.hh133997659483769615 0
-159C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\web-vitals.644781b3.js133997730965748679 0
 108C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\watcher\src\watchman\BSER.cc133997659476219020 0
 107C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\watcher\src\watchman\IPC.hh133997659482869512 0
 119C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\watcher\src\watchman\WatchmanBackend.hh133997659483489570 0
@@ -6551,7 +6558,7 @@
 109C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\utils\test\collection.test.js133997659478409194 0
 96C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\utils\test\input133997659484389643 1
 109C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\utils\test\objectHash.test.js133997659484599636 0
-152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\refs\heads133997730970564395 1
+152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\refs\heads133997736289271912 1
 122C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\utils\test\replaceBundleReferences.test.js133997659485179695 0
 108C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\utils\test\sourcemap.test.js133997659485589708 0
 106C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\utils\test\urlJoin.test.js133997659485789728 0
@@ -6571,6 +6578,7 @@
 101C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\utils\src\Deferred.js133997659480659348 0
 112C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\utils\src\dependency-location.js133997659480919395 0
 104C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\utils\src\escape-html.js133997659481079379 0
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\ea\95ab29150a2c40642849d44b1ff59c6404efd9133997736281551751 0
 113C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\utils\src\generateBuildMetrics.js133997659481219398 0
 112C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\utils\src\generateCertificate.js133997659481369402 0
 107C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\runtime-js\src\JSRuntime.js133997659482489497 0
@@ -6637,6 +6645,7 @@
 107C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\transformer-postcss\LICENSE133997659471638711 0
 112C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\transformer-postcss\package.json133997659478279191 0
 103C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\transformer-postcss\src133997659477949151 1
+152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\ed133997736281090505 1
 117C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\transformer-postcss\src\loadConfig.js133997659476049009 0
 125C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\transformer-postcss\src\PostCSSTransformer.js133997659478009144 0
 125C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\transformer-postcss\lib\PostCSSTransformer.js133997659477689133 0
@@ -6734,7 +6743,7 @@
 117C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\runtime-js\src\helpers\cacheLoader.js133997659475498985 0
 121C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\core\test\fixtures\custom-targets-distdir133997659489940028 1
 120C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\runtime-js\src\helpers\get-worker-url.js133997659478869224 0
-191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\97\4ccc341232d4233f40e01901b9c54b461519f9133997730966915237 0
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\97\4ccc341232d4233f40e01901b9c54b461519f9133997736281161714 0
 107C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\runtime-js\src\helpers\node133997659483669579 1
 109C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\runtime-js\src\helpers\worker133997659483769615 1
 122C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\runtime-js\src\helpers\worker\js-loader.js133997659482049458 0
@@ -6755,7 +6764,7 @@
 129C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\runtime-js\lib\helpers\browser\import-polyfill.js133997659480469343 0
 123C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\runtime-js\lib\helpers\browser\js-loader.js133997659480989380 0
 129C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\runtime-js\lib\helpers\browser\prefetch-loader.js133997659482829504 0
-156C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\COMMIT_EDITMSG133997730970448520 0
+156C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\COMMIT_EDITMSG133997736289183737 0
 86C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\fs\lib133997659481329399 1
 103C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\runtime-browser-hmr\lib133997659476139016 1
 86C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\fs\src133997659478579193 1
@@ -6861,12 +6870,11 @@
 97C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\optimizer-css\lib133997659472578753 1
 101C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\optimizer-css\LICENSE133997659471688695 0
 97C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\optimizer-css\src133997659473448827 1
-166C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\logs\refs\heads\gh-pages133997730970544389 0
+166C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\logs\refs\heads\gh-pages133997736289251906 0
 115C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@babel\runtime\helpers\esm\applyDecs2301.js133992877710352139 0
 113C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\optimizer-css\lib\CSSOptimizer.js133997659472838779 0
 161C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\babel-loader\2351e77e2763f6dca5b6476a2278b607f9a5199598b97b1c864c688cfa1be87c.json133997593988957962 0
 102C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\node-resolver-core\lib133997659476169024 1
-156C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\public.d91c94e1.css133997730965738685 0
 111C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\node-resolver-core\lib\index.js133997659475608976 0
 113C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\node-resolver-core\lib\Wrapper.js133997659476519067 0
 112C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\node-resolver-core\lib\_empty.js133997659472678774 0
@@ -6983,7 +6991,6 @@
 115C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\core\test\fixtures\parcel\yarn.lock133997659490780090 0
 123C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\core\test\fixtures\main-global\package.json133997659490590076 0
 166C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules\parcel-config-local\index.json133997659489670013 0
-90C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\web-vitals.54b40519.js.map133997730931714209 0
 168C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules\parcel-config-local\package.json133997659490450083 0
 130C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\core\test\fixtures\library-scopehoist\package.json133997659490400062 0
 133C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\src133997659485899733 1
@@ -7258,6 +7265,7 @@
 128C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@babel\runtime\helpers\esm\classPrivateMethodInitSpec.js133992877719732840 0
 106C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@babel\runtime\helpers\identity.js133992877731203704 0
 114C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@babel\runtime\helpers\importDeferProxy.js133992877731343717 0
+152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\08133997736289221923 1
 106C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@babel\runtime\helpers\inherits.js133992877731443720 0
 122C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@babel\runtime\helpers\initializerWarningHelper.js133992877731813738 0
 161C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\babel-loader\4c5565f6d07e73737dbed01683f3b9e916e0561efbadcfb28e4a2f775cc7c1a5.json133997601596192777 0
@@ -7281,7 +7289,6 @@
 112C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@babel\runtime\helpers\setPrototypeOf.js133992877734953982 0
 120C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@babel\runtime\helpers\skipFirstGeneratorNext.js133992877735033980 0
 111C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@babel\runtime\helpers\slicedToArray.js133992877735143989 0
-155C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\public.0ba7c674.js133997730965718673 0
 110C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@babel\runtime\helpers\superPropSet.js133992877735404025 0
 101C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@babel\runtime\helpers\tdz.js133992877735684038 0
 161C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\babel-loader\0b0db082883dc31ab7806f94cfd9afa9c3907f8992995aec1dbed7bf99fc9125.json133992879558031879 0
@@ -7363,19 +7370,15 @@
 103C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@adobe\css-tools\dist\index.mjs133992877961261718 0
 104C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@adobe\css-tools\dist\types.d.ts133992877961581740 0
 108C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\@adobe\css-tools\dist\types.d.ts.map133992877960812575 0
-160C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\public.37b1d755.css.map133997730965738685 0
-159C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\public.a2db2617.js.map133997730965998710 0
-160C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\public.d91c94e1.css.map133997730965748679 0
-163C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\web-vitals.54b40519.js.map133997730965748679 0
-163C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\web-vitals.644781b3.js.map133997730965758678 0
 153C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\description133997660058795046 0
-152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\FETCH_HEAD133997730960527794 0
-146C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\HEAD133997730963798535 0
+152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\FETCH_HEAD133997736282261794 0
+146C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\HEAD133997736284995309 0
 153C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\packed-refs133997660070953672 0
 146C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\refs133997660070983684 1
 118C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.bin\node-gyp-build-optional-packages-test.ps1133997659495620453 0
-161C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\refs\remotes\origin133997731009860584 1
-161C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\refs\heads\gh-pages133997730970544389 0
+161C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\refs\remotes\origin133997736312578093 1
+161C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\refs\heads\gh-pages133997736289251906 0
+152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\05133997736269152623 1
 152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\09133997730953332810 1
 152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\19133997694369223100 1
 152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\1d133997692202313225 1
@@ -7387,32 +7390,39 @@
 152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\3f133997730957907588 1
 152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\47133997730967627299 1
 152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\56133997716675277781 1
+152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\5a133997736281491742 1
 152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\5c133997694369313056 1
 152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\60133997678163188733 1
 152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\69133997730957587569 1
 152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\72133997730959897737 1
 152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\73133997730959747724 1
 152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\83133997716675209656 1
-152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\91133997730966896615 1
+152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\91133997736269192612 1
 152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\97133997730966955232 1
+152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\9b133997736280857318 1
 152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\b4133997730958217615 1
 152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\d3133997698941608325 1
 152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\d8133997730957517584 1
 152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\dc133997730959787732 1
-152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\e2133997730953112799 1
+152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\e2133997736269232610 1
 152C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\ee133997678163378738 1
 154C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\pack133997660071203684 1
 204C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\pack\pack-b280317812013f94e10b183ca3edc2decc032975.idx133997660070249805 0
 205C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\pack\pack-b280317812013f94e10b183ca3edc2decc032975.pack133997660070239748 0
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\fc\ce493a308d542ccb5b3ef1ada37eb8c7e0ed2d133997736281521743 0
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\f8\17c75418698fbd63cbaeaf7a7d26c9a78a6c71133997736281100484 0
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\ee\6a7fda474dc9ee3a251d2cd728733e0cdeca2f133997678163358749 0
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\e3\d47639fc918f48507740cbf61bf28b6ef5f23a133997678163105123 0
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\e2\2ba6e2135c86dd10939f57dcc1ea96829ef73c133997736269212629 0
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\dc\eaf0c16ad30640cef0945ca4d88b9dab8ab6ff133997730959767741 0
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\d2\09f68b4bae1bb89cb36bf87967432b8bb2bfea133997736269605873 0
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\d1\96e4746e42681edaeba95901ce2da32f2cd0b2133997730953212805 0
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\c9\37a0dbc0cb5e864c33eb46523f02d274fdfe62133997730957977611 0
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\c0\5e38640ff9c079912a208f7af5719a2f329644133997678163278746 0
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\be\89411802aeddd793c4433f6eb512e9511e45ee133997678163065056 0
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\b5\d5a819f6fcd1bc600450fde97dad8e4622db97133997716675148818 0
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\a9\156358808663ab2b9ab51502f817ea5a37d6e7133997730967597297 0
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\a5\cc55114ac1083f91ce6686839e1e52ee576b1a133997736269252609 0
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\9f\97c4d23945c48390ac97a0164d7fc0433501b6133997730953022782 0
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\9c\d1d4aba7c818f97d0fbe9c2f05a4b60c34f5d3133997660089034349 0
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\97\6209a5f1ffc4eb035b1c83d980320bcb746918133997698941430119 0
@@ -7425,11 +7435,12 @@
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\6c\004a0f04e73b6695fd92cb0f9a6caa08f2b2b6133997730959677726 0
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\6c\8aafe996857293973a0149881fb02bdb0e0537133997698941378119 0
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\69\568dc003d3949191721a41491b6a8124e95c71133997730957567590 0
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\63\e84a844e036e0e4443ca51c3d1a91bfc4930b4133997736269532621 0
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\5e\398ee03ada3d4e18b94f6d4baf8d03c5658c72133997698941628322 0
-191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\5e\4962dab889802f66d0bc591637debd89014693133997730967544800 0
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\5e\4962dab889802f66d0bc591637debd89014693133997736281451736 0
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\5c\93caa88cbd117d9cf856f5c0d79e7b2282e5c9133997694369302886 0
-191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\51\d95150890eac51c01fb0c76cf51bd82d23b0f3133997730967125233 0
-191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\47\6140fd7c6e9d8520120d296bad94a8d6376a99133997730967617302 0
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\51\d95150890eac51c01fb0c76cf51bd82d23b0f3133997736281281733 0
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\47\6140fd7c6e9d8520120d296bad94a8d6376a99133997736281451736 0
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\3f\3304a55e8e14e4654f85197b24da97187a5ab2133997730957897595 0
 161C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\babel-loader\85c2c1e484acfb365cacefd2d0d4af0ad90e889d3880078592652afd6b89e134.json133992879511653433 0
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\37\322504a984d62d7a1c38799eedf21b95d53b30133997678163888761 0
@@ -7438,6 +7449,7 @@
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\0c\4a34acbbbe6fcb6e867bf02ec65a6027108207133997730953552838 0
 161C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\babel-loader\9a1cdb78995c7ddaedfb83d842aa866e857215a8effda96a6b2282d3bd320c88.json133992879531175041 0
 191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\0a\b39e944f61092eb263f1151e36644e37f1354c133997730959627724 0
+191C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\objects\05\b1c8087c028e8bcaf539b62c8b5dba7bf6ade4133997736269140699 0
 169C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\hooks\applypatch-msg.sample133997660058805059 0
 163C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\hooks\pre-push.sample133997660058875045 0
 166C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.cache\gh-pages\https!github.com!EgorTkachuK!cookingrecepies.git\.git\hooks\pre-receive.sample133997660058895045 0
@@ -7539,11 +7551,9 @@
 99C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.bin\update-browserslist-db133992877838111681 0
 103C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.bin\update-browserslist-db.cmd133992877838111681 0
 103C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\node_modules\.bin\update-browserslist-db.ps1133992877838111681 0
-86C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\public.0ba7c674.js.map133997735282820866 0
-82C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\public.31b563d9.js133997734626226732 0
-83C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\public.37b1d755.css133997730931284179 0
-87C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\public.37b1d755.css.map133997730931714209 0
-83C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\public.d91c94e1.css133997734626336743 0
-87C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\public.d91c94e1.css.map133997734626406740 0
-86C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\web-vitals.644781b3.js133997734623864842 0
-90C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\web-vitals.644781b3.js.map133997734623954819 0
+86C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\public.0ba7c674.js.map133997744172455740 0
+82C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\public.31b563d9.js133997745636190860 0
+83C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\public.d91c94e1.css133997745638110989 0
+87C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\public.d91c94e1.css.map133997745638151017 0
+86C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\web-vitals.644781b3.js133997745637840990 0
+90C:\Users\48574\Documents\iteens\reactHw-5\cookingreccepies\dist\web-vitals.644781b3.js.map133997745637900964 0
