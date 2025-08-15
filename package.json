@@ -2,7 +2,7 @@
   "name": "goiteens-events-js",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://EgorTkachuK.github.io/cookingrecepies",
+  "homepage": "https://egortkachuk.github.io/cookingrecepies",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.6.4",
@@ -17,7 +17,7 @@
   },
   "scripts": {
     "start": "npx parcel public/index.html",
-    "build": "parcel build public/index.html --no-cache --public-url ./",
+    "build": "parcel build public/index.html --no-cache --public-url /cookingrecepies/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "eject": "react-scripts eject"
